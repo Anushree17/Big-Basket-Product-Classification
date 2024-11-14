@@ -29,6 +29,13 @@ Bigbasket is the largest online grocery supermarket in India. Was launched somew
     <li>Seaborn</li>
     <li>Plotly</li>
   </ul>
+  <h2>Evaluation Metrics</h2>
+  <ul>
+    <li>Accuracy</li>
+    <li>F1 score</li>
+    <li>Recall</li>
+    <li>Precision</li>
+  </ul>
 
   <h2>Machine Learning Models</h2>
   <ul>
@@ -36,6 +43,13 @@ Bigbasket is the largest online grocery supermarket in India. Was launched somew
     <li>Decision Tree</li>
     <li>Random Forest</li>
   </ul>
-
+<h2>Conclusio</h2>
+<ul>
+  <li>Logistic Regression gives a training accuracy of 0.95 and a testing accuracy of 0.94</li>
+  <li>Decision Tree and Random Forest gives an accuracy of 1.0on both training and testing dataset</li>
+  <li>Both Decision Tree and Random Forest give a cross validation mean accuracy of 0.99 which indicates Overfitting</li>
+  <li>Random Forest highlights the importance of market price(34%) and sale price(58%) in classifying the products. Decision Tree gives sale price 100% importance</li>
+  <li>Out of the Tree Models,Decision Tree and Random Forest performs well in classifying the products</li>
+</ul>
   
   
