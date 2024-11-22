@@ -43,7 +43,7 @@ Bigbasket is the largest online grocery supermarket in India. Was launched somew
     <li>Decision Tree</li>
     <li>Random Forest</li>
   </ul>
-<h2>Conclusio</h2>
+<h2>Conclusion</h2>
 <ul>
   <li>Logistic Regression gives a training accuracy of 0.95 and a testing accuracy of 0.94</li>
   <li>Decision Tree and Random Forest gives an accuracy of 1.0on both training and testing dataset</li>
